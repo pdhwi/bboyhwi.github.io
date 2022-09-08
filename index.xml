@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>bboyhwi-blog</title>
-        <link>http://bboyhwi.github.io/</link>
+        <link>https://pdhwi.github.io/</link>
         <description>bboyhwi-blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>331883059@qq.com (bboy-hwi)</managingEditor>
             <webMaster>331883059@qq.com (bboy-hwi)</webMaster><copyright>bboyhwi-blog,hwi,blog</copyright><lastBuildDate>Wed, 07 Sep 2022 17:58:29 &#43;0800</lastBuildDate>
-            <atom:link href="http://bboyhwi.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://pdhwi.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
-    <link>http://bboyhwi.github.io/first_post/</link>
+    <link>https://pdhwi.github.io/first_post/</link>
     <pubDate>Wed, 07 Sep 2022 17:58:29 &#43;0800</pubDate>
     <author>bboy-hwi</author>
-    <guid>http://bboyhwi.github.io/first_post/</guid>
+    <guid>https://pdhwi.github.io/first_post/</guid>
     <description><![CDATA[这是一个文章]]></description>
 </item>
 </channel>

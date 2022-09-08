@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://bboyhwi.github.io/sitemap.xml
+Sitemap: https://pdhwi.github.io/sitemap.xml
