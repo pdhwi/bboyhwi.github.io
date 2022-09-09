@@ -2,16 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://pdhwi.github.io/tags/aaaa/</loc><lastmod>2022-09-08T14:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/categories/aaaa/</loc><lastmod>2022-09-08T14:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/</loc><lastmod>2022-09-08T14:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/categories/</loc><lastmod>2022-09-08T14:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/posts/</loc><lastmod>2022-09-08T14:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/tags/</loc><lastmod>2022-09-08T14:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/third_post/</loc><lastmod>2022-09-08T14:19:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/tags/pppp/</loc><lastmod>2022-09-08T10:09:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/categories/pppp/</loc><lastmod>2022-09-08T10:09:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/second_post/</loc><lastmod>2022-09-08T10:09:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/first_post/</loc><lastmod>2022-09-07T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/tags/hugo/</loc><lastmod>2022-09-07T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://pdhwi.github.io/categories/hugo/</loc><lastmod>2022-09-07T17:58:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://pdhwi.github.io/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/categories/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/tags/dockerfile/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/categories/dockerfile/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/tags/go/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/categories/go/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/dockerfileforgo/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/posts/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://pdhwi.github.io/tags/</loc><lastmod>2022-09-09T10:44:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
